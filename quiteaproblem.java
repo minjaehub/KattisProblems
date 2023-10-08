@@ -18,7 +18,7 @@ public class quiteaproblem {
                     break;
                 }
             }
-            bw.write(check ? "yes\n" : "no\n");
+            bw.write(check ? "yes\n" : "no");
             line = br.readLine();
             check = false;
         }
