@@ -1,42 +1,56 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "guessinggame",
-            "request": "launch",
-            "mainClass": "guessinggame",
-            "projectName": "KattisProblems_7629d59"
-        },
-        {
-            "type": "java",
-            "name": "quiteaproblem",
-            "request": "launch",
-            "mainClass": "quiteaproblem",
-            "projectName": "KattisProblems_7629d59"
-        },
-        {
-            "type": "java",
-            "name": "speedlimit",
-            "request": "launch",
-            "mainClass": "speedlimit",
-            "projectName": "KattisProblems_7629d59"
-        },
-        {
-            "type": "java",
-            "name": "stafur",
-            "request": "launch",
-            "mainClass": "stafur",
-            "projectName": "KattisProblems_7629d59"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "fyi",
+      "request": "launch",
+      "mainClass": "fyi",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "pyramids",
+      "request": "launch",
+      "mainClass": "pyramids",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "guessinggame",
+      "request": "launch",
+      "mainClass": "guessinggame",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "quiteaproblem",
+      "request": "launch",
+      "mainClass": "quiteaproblem",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "speedlimit",
+      "request": "launch",
+      "mainClass": "speedlimit",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "stafur",
+      "request": "launch",
+      "mainClass": "stafur",
+      "projectName": "KattisProblems_7629d59"
+    }
+  ]
 }
