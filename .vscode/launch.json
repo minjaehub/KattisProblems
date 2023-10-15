@@ -6,6 +6,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SmallestCalculatedValue",
+      "request": "launch",
+      "mainClass": "SmallestCalculatedValue",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "smallestcalculatedvalue",
+      "request": "launch",
+      "mainClass": "smallestcalculatedvalue",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "recount",
+      "request": "launch",
+      "mainClass": "recount",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "planina",
+      "request": "launch",
+      "mainClass": "planina",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "walrusweights",
+      "request": "launch",
+      "mainClass": "walrusweights",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "metronome",
+      "request": "launch",
+      "mainClass": "metronome",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "engineeringenglish",
+      "request": "launch",
+      "mainClass": "engineeringenglish",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "fluortanten",
+      "request": "launch",
+      "mainClass": "fluortanten",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "queens",
+      "request": "launch",
+      "mainClass": "queens",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
+      "name": "natrij",
+      "request": "launch",
+      "mainClass": "natrij",
+      "projectName": "KattisProblems_7629d59"
+    },
+    {
+      "type": "java",
       "name": "fyi",
       "request": "launch",
       "mainClass": "fyi",
